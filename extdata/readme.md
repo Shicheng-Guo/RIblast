@@ -1,4 +1,4 @@
-# How to apply RIblast to predict lncRNA target 
+## How to apply RIblast to predict lncRNA target 
 
 1. install RIblast with git clone command
 ```
