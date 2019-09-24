@@ -2,8 +2,11 @@
 
 1. install RIblast with git clone command
 ```
-git clone 
+git clone https://github.com/Shicheng-Guo/RIblast.git
 cd RIblast
 make 
 ```
 2. prepare
+```
+```
+
